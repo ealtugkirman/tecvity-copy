@@ -22,6 +22,7 @@ import CustomSoftware from "./pages/ServicesPages/CustomSoftware";
 export default function App() {
   return (
     <div className="bg-black bg-cover">
+    
       <Header />
       <ScrollToTop />
       <Routes>
